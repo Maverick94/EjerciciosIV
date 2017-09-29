@@ -12,9 +12,9 @@ Base Amortizable = 820,23 - 70 = 750,23€
 
 #### Para 4 años
 
-                        750,23
-CUOTA AMORT. ANUAL = ------------- = 187,55 euros.
-                           4
+
+CUOTA AMORT. ANUAL = 750,23/4 = 187,55 euros.
+                           
 
 
 | Año  | Cuota de amortización  | Valor contable  |
@@ -27,9 +27,9 @@ CUOTA AMORT. ANUAL = ------------- = 187,55 euros.
 
 #### Para 7 años
 
-                        750,23
-CUOTA AMORT. ANUAL = ------------- = 107,17 euros.
-                           7
+
+CUOTA AMORT. ANUAL = 750,23/7 = 107,17 euros.
+
 
 
 | Año  | Cuota de amortización  | Valor contable  |

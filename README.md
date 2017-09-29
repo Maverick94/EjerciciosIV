@@ -6,4 +6,4 @@ Respositorio donde voy a desarrollar los ejercicios propuestos para la asignatur
 
 ### Ejercicios
 
-* [Tema 1](https://github.com/Maverick94/)
+* [Tema 1](https://github.com/Maverick94/EjerciciosIV/tree/master/tema1)
