@@ -44,7 +44,11 @@ CUOTA AMORT. ANUAL = 750,23/7 = 107,17 euros.
 
 ### 2. Usando las tablas de precios de servicios de alojamiento en Internet y de proveedores de servicios en la nube, Comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se usa sólo el 1% o el 10% del tiempo.
 
+He comparadao la opcion [VPS 4 de Arsys](https://www.arsys.es/servidores/vps?s=cpc&c=316967523&a=19256490003&gclid=CjwKEAjwu7LOBRDZ_MOHmpW6kW8SJABC19sY7NZDxQiYKiEFKNqbyc0JNWiLpuct0ck4DxJzyXIB-BoCBHLw_wcB) con el servidor [Lenovo ThinkStation E32](http://www.ebay.es/itm/Lenovo-ThinkStation-E32-SFF-Xeon-e3-1230v3-3-3ghz-8gb-RAM-128gb-SSD-K600-/372061303478?_trksid=p2141725.m3641.l6368).  Ambos tienen caracteristicas similares.
+* **Arsys**: 4 CPU Xeon, 8GB de RAM y con 100GB de disco SSD.  
+* **Lenovo**: 4 CPU Xeon, 8GB de RAM y 100GB de disco SSD.  
 
+El precio del servicio de Arsys es de 40 €/mes. Realizando cuentas obtenemos que  al año nos cuesta *480€*, mientras el servidor vale *353€*.
 
 ### 3. En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden? Si usas una máquina virtual, ¿qué resultado da? ¿Y en una Raspberry Pi o, si tienes acceso, el procesador del móvil?
 * 2,7 GHz Intel Core i5
@@ -65,6 +69,6 @@ CUOTA AMORT. ANUAL = 750,23/7 = 107,17 euros.
 
 Nos daremos de alta en azure con la key proporcionada por el profesor.
 
-## 6. Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube anteriores.
+### 6. Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube anteriores.
 
 Usaremos el servicio de [Azure DevTest Labs](https://azure.microsoft.com/en-us/services/devtest-lab/)
