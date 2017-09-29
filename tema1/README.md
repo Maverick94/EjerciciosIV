@@ -53,9 +53,18 @@ CUOTA AMORT. ANUAL = 750,23/7 = 107,17 euros.
 ![c1](https://github.com/Maverick94/EjerciciosIV/blob/master/tema1/img/C1.png)
 
 
-### 4.
+### 4. Ejercicio
 #### 1. Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok.
 ![c2](https://github.com/Maverick94/EjerciciosIV/blob/master/tema1/img/C2.png)
 
 #### 2. Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
 ![c3](https://github.com/Maverick94/EjerciciosIV/blob/master/tema1/img/C3.png)
+
+
+### 5. Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.
+
+Nos daremos de alta en azure con la key proporcionada por el profesor.
+
+## 6. Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube anteriores.
+
+Usaremos el servicio de [Azure DevTest Labs](https://azure.microsoft.com/en-us/services/devtest-lab/)
